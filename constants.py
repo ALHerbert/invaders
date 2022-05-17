@@ -1,0 +1,4 @@
+import pygame
+
+SCREEN_WIDTH, SCREEN_HEIGHT = 1920, 1080
+ADD_INVADER = pygame.USEREVENT + 1
